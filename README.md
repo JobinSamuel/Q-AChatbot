@@ -278,7 +278,7 @@ This project is intended for educational and demonstration purposes.
 
 ## 👨‍💻 Author
 
-**Josin Samuel**
+**Jobin Samuel**
 
 AI / ML Engineer | Generative AI Enthusiast
 
